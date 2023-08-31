@@ -1,0 +1,6 @@
+tuple1=()
+tuple2=()
+print(tuple1)
+print(tuple1)
+tuple1=tuple1+(1,3,67,7)
+print(tuple1)
