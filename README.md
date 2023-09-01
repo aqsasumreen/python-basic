@@ -1,6 +1,8 @@
 # python-basic
 Basics of Python
 <br>
-Python data types , List comprehensions , Map ,filter and enumerate Funtions
+pip install opencv2
 <br>
-Time Module and pyaudio
+pip install bisect
+<br>
+pip install pyaudio
